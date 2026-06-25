@@ -1,0 +1,14 @@
+{
+  "unet": {
+    "train_loss": [],
+    "val_loss": []
+  },
+  "sc1": {
+    "train_loss": [],
+    "val_loss": []
+  },
+  "sc2": {
+    "train_loss": [],
+    "val_loss": []
+  }
+}
